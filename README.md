@@ -3,6 +3,7 @@
 ## AIM:
   To Assemble the Computer System
 ## PROCEDURE:
+### ASSEMBLING THE SYSTEM
 - Grounding oneself can be done by using an antistatic wrist-strap cable to prevent electrostatic discharge (ESD) which can be deadly to computer electronics.
 - Alternatively, a large metal body like a radiator can also be touched to discharge oneself.</br>
 ![image](https://github.com/SanjayKumarAIML/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/93427246/6636c547-6912-41d8-afc4-56d24d78c304)
@@ -43,12 +44,14 @@
   - Insert the hard drive into its slot (usually near the top of the case).
   - Tighten any screws needed to hold the drive-in place.
   - Plug the hard drive's SATA cable into the SATA slot on the motherboard.</br>
+  
 ![image](https://github.com/SanjayKumarAIML/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/93427246/eebd2c4e-868e-4b12-9caa-a5404c32b275)
   </br>
 - Connect the power supply to any necessary components. If the power supply is not connected to components which need power, make sure that it is connected to the following locations:
   - Motherboard
   - Graphics card(s)
   - Hard drive(s)</br>
+  
 ![image](https://github.com/SanjayKumarAIML/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/93427246/aed206ad-e9d8-4e7f-9c63-76cf94660442)
  </br>
 - Finish the computer assembly.
@@ -56,8 +59,46 @@
   - If bought a cooling system, install it before proceeding.
   - Refer to the cooling system's installation instructions in order to do so.
   - Many cases will have a panel which either slides back into place or screws onto the side of the case. </br>
+  
 ![image](https://github.com/SanjayKumarAIML/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/93427246/ed2e4cb5-d47e-4dba-9de4-0e885f021270)
 </br>
+
+### RUNNING THE SYSTEM
+- Attach the computer to an outlet. Using the power source's power cable, plug the computer into a wall outlet or power strip.
+- May first have to attach the electrical cable to the power source input on the back of the computer's case.
+</br>
+
+![image](https://github.com/SanjayKumarAIML/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/93427246/7db87fac-b74e-4d94-b35a-a8b3dd45bad6)
+
+</br>
+
+- Plug a monitor into the computer. Typically use the graphics card output that is near the bottom of the case, though some motherboards may have this port on the right or left side of the case.
+- The output here is usually a DisplayPort or HDMI port.
+</br>
+
+  ![image](https://github.com/SanjayKumarAIML/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/93427246/31cf44e5-1c0d-4bda-aa54-0f80ac60fbc5)'
+
+</br>
+
+- Turn on the computer. Press the computer's Power button on the front or back of the case. If everything's properly connected, the computer should start up.
+
+</br>
+
+![image](https://github.com/SanjayKumarAIML/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/93427246/7b79b044-7436-4c00-a030-67c56558b22b)
+
+</br>
+
+- Install Windows or Linux. Windows is compatible with all PCs and will make full use of their various features (e.g., Bluetooth), but will have to purchase a copy of Windows if not having a product key. Linux is free but may not be able to use all the computer's hardware.
+  - If not having an installation USB drive, need to create one on another computer before can install the operating system.
+</br>
+
+![image](https://github.com/SanjayKumarAIML/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/93427246/6578efc8-a57a-4478-b589-79100104352c)
+
+</br>
+
+- Install the drivers. Once the operating system is installed, need to install the drivers.
+- Almost all the hardware that was purchased should come with discs that contain the driver software needed for the hardware to work.
+- Modern versions of Windows and Linux will install most drivers automatically when connected to the Internet.
 
 
 ## RESULT:
