@@ -30,7 +30,8 @@
 - Prepare the case needs to knock the plates out of the back of the case in order to fit the components into the correct positions.
   - If the case has separate shelving units to hold the hard drive, install the units using the included screws.
   - May need to install and wire the case's fans before installing any components. If so, follow the case's fan installation instructions.</br> 
-![](https://www.wikihow.com/Build-a-Computer#/Image:Build-a-Computer-Step-21-Version-3.jpg)</br>
+![image](https://github.com/SanjayKumarAIML/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/93427246/9d5e1d10-9945-4c9a-b293-8194a32d961f)
+</br>
 - Secure the motherboard. Once the standoffs are installed, place the motherboard in the case and push it up against the backplate. All of the back ports should fit into the holes in the I/O backplate.
   - Use the screws provided to secure the motherboard to the standoffs through the shielded screw holes on the motherboard.
 -  Plug in the case connectors. These tend to be located together on the motherboard near the front of the case. The order in which these are  connected will depend on which is easiest.
@@ -42,18 +43,21 @@
   - Insert the hard drive into its slot (usually near the top of the case).
   - Tighten any screws needed to hold the drive-in place.
   - Plug the hard drive's SATA cable into the SATA slot on the motherboard.</br>
-![](https://www.wikihow.com/Build-a-Computer#/Image:Build-a-Computer-Step-22-Version-4.jpg)  </br>
+![image](https://github.com/SanjayKumarAIML/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/93427246/eebd2c4e-868e-4b12-9caa-a5404c32b275)
+  </br>
 - Connect the power supply to any necessary components. If the power supply is not connected to components which need power, make sure that it is connected to the following locations:
   - Motherboard
   - Graphics card(s)
   - Hard drive(s)</br>
-![](https://www.wikihow.com/Build-a-Computer#/Image:Build-a-Computer-Step-24-Version-4.jpg)  </br>
+![image](https://github.com/SanjayKumarAIML/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/93427246/aed206ad-e9d8-4e7f-9c63-76cf94660442)
+ </br>
 - Finish the computer assembly.
 - Once placed and connected the various internal components for the computer, all that's left to do is ensure that none of the wires interfere with circulation and close up the case.
   - If bought a cooling system, install it before proceeding.
   - Refer to the cooling system's installation instructions in order to do so.
   - Many cases will have a panel which either slides back into place or screws onto the side of the case. </br>
-![](https://www.wikihow.com/Build-a-Computer#/Image:Build-a-Computer-Step-25-Version-4.jpg) </br>
+![image](https://github.com/SanjayKumarAIML/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/93427246/ed2e4cb5-d47e-4dba-9de4-0e885f021270)
+</br>
 
 
 ## RESULT:
